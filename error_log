@@ -1,0 +1,80 @@
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spec/public_html/admin/config/db_connection.php on line 8
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/admin/config/db_connection.php on line 9
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/header.php on line 52
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/header.php on line 52
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/header.php on line 71
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/header.php on line 79
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/slider.php on line 9
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/slider.php on line 11
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/slider.php on line 30
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/slider.php on line 32
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/slider.php on line 80
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/slider.php on line 82
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 19
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 19
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 40
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 40
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 80
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 97
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 144
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 146
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 168
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 170
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 226
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 231
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/footer.php on line 11
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/footer.php on line 11
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/footer.php on line 21
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/footer.php on line 21
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/footer.php on line 42
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/footer.php on line 42
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/footer.php on line 61
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/footer.php on line 61
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/footer.php on line 110
+[21-May-2018 16:24:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/footer.php on line 116
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spec/public_html/admin/config/db_connection.php on line 8
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/admin/config/db_connection.php on line 9
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/header.php on line 52
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/header.php on line 52
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/header.php on line 71
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/header.php on line 79
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/slider.php on line 9
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/slider.php on line 11
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/slider.php on line 30
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/slider.php on line 32
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/slider.php on line 80
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/slider.php on line 82
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 19
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 19
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 40
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 40
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 80
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 97
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 144
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 146
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 168
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 170
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/index.php on line 226
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/index.php on line 231
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/footer.php on line 11
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/footer.php on line 11
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/footer.php on line 21
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/footer.php on line 21
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/footer.php on line 42
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/footer.php on line 42
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/footer.php on line 61
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/footer.php on line 61
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/spec/public_html/footer.php on line 110
+[21-May-2018 16:27:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/spec/public_html/footer.php on line 116
+[21-May-2018 16:48:18 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 62
+[21-May-2018 16:48:18 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 63
+[21-May-2018 16:48:18 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 64
+[21-May-2018 16:48:18 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 92
+[21-May-2018 16:48:46 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 62
+[21-May-2018 16:48:46 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 63
+[21-May-2018 16:48:46 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 64
+[21-May-2018 16:48:46 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 92
+[22-May-2018 01:17:02 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 62
+[22-May-2018 01:17:02 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 63
+[22-May-2018 01:17:02 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 64
+[22-May-2018 01:17:02 America/New_York] PHP Notice:  Undefined variable: currentPage in /home/spec/public_html/header.php on line 92

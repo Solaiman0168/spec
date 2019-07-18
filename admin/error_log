@@ -1,0 +1,2 @@
+[22-May-2018 02:38:06 Asia/Dhaka] PHP Notice:  Undefined index: user_no in /home/spec/public_html/admin/login_action.php on line 48
+[22-May-2018 02:38:06 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/spec/public_html/admin/login_action.php on line 16
